@@ -1,2 +1,2 @@
 # next-cloud-config
-NextCloud+SSL+PostrgreSQL docker-compose config 
+NextCloud+SSL+PostgreSQL docker-compose config 
